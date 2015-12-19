@@ -1,0 +1,25 @@
+{
+  "name": "angularJS-skeleton-project",
+  "authors": [
+    "Eduardo Pedroso <drdpedroso@gmail.com>"
+  ],
+  "description": "simples angular starter skeleton",
+  "main": "",
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.0-rc.0",
+    "angular-ui-router": "https://github.com/angular-ui/ui-router.git#~0.2.15"
+  }
+}
